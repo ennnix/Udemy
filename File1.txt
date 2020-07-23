@@ -1,2 +1,2 @@
 Hello world
-hello from user 1 another line
+line from user 2
